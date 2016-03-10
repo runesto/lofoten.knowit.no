@@ -6,8 +6,8 @@ Development requirements: node.js.
 
 ### Get code and install dependencies
 
-$ git clone git@github.com:knowit/kds.git
-$ cd kds
+$ git clone git@github.com:knowit/lofoten.knowit.no.git
+$ cd lofoten.knowit.no
 $ npm install
 
 ### Change content
