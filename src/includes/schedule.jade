@@ -1,7 +1,7 @@
 - progComView = progComView || false
 section#schedule.schedule(class={progComView: progComView})
   .content
-    h1 Foreløpig faglig program
+    h1 Faglig program
 
     p.lead
       | Programmet er under utarbeidelse og vil mest sannsynlig endre seg...
@@ -15,7 +15,7 @@ section#schedule.schedule(class={progComView: progComView})
               h4= collection.time
               each entry in collection.entries
                 .schedule-entry
-                  h5 Room #{entry.room}
+                  h5 Rom: #{entry.room}
                   each slot in entry.slots
                     - var talk = talks[slot]
                     if talk
