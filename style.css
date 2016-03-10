@@ -32,7 +32,7 @@ dd {
 }
 
 a {
-  color: #85d6cb;
+  color: #666;
 }
 
 .btn {
@@ -200,8 +200,7 @@ td, th{
 */
 
 .schedule-entry h5 {
-  background: #85d6cb;
-  color: white;
+  background: #C3ECE6;
   font-weight: normal;
   padding: 5px;
   margin: 0;
@@ -379,4 +378,23 @@ td, th{
   .schedule-entry:last-child {
     margin-right: 0;
   }
+
+  .speaker {
+    margin-bottom: 20px;
+    overflow: auto;
+  }
+
+  .speaker .bio-pic {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    float: left;
+    background-color: #efefef;
+  }
+
+  .speaker .bio {
+    margin-left: 170px;
+  }
+
+
 }

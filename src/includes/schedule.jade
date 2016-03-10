@@ -15,7 +15,7 @@ section#schedule.schedule(class={progComView: progComView})
               h4= collection.time
               each entry in collection.entries
                 .schedule-entry
-                  h5 Room #{entry.room}
+                  h5 #{entry.room}
                   each slot in entry.slots
                     - var talk = talks[slot]
                     if talk
@@ -26,7 +26,8 @@ section#schedule.schedule(class={progComView: progComView})
                           p(lang=talk.languageCode)
                             a(id='p_'+slot href='#'+slot)= talk.title
                           address
-                            | #{talk.speaker}
+                            each speaker in talk.speakers
+                              = speaker.name + ' '
                           if progComView
                             p.annote.
                               !{talk.types.join(', ').replace(talk.type, '<u>'+talk.type+'</u>')}

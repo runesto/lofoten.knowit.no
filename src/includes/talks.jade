@@ -11,12 +11,22 @@ section#talks.talks
               if talk && (!talk.pending || progComView)
                 .talks-entry(id=slot)
                   h4(lang=talk.languageCode)= " " + talk.title
-                  address.talk-speaker
-                    | #{talk.speaker} - #{talk.company}
+                  p.talk-description(lang=talk.languageCode)= talk.description
                   p.talk-meta
                     | #{talk.type}, #{talk.language}, #{" "}
                     a(href='#p_'+slot)  #{schedule.day.split(',').shift()} #{collection.time.split(' ').shift()} slot - room #{entry.room}
-                  p.talk-description(lang=talk.languageCode)= talk.description
+                  h5 Bio
+                  .speakers
+                    each speaker in talk.speakers
+                      .speaker
+                          if speaker.pic
+                            img(class="bio-pic", src='pics/'+speaker.pic)
+                          else
+                            .bio-pic
+                          .bio
+                            a(href='mailto:'+speaker.email)= speaker.name
+                            .bio-text= speaker.bio
+
                   if progComView
                     p.talk-notes
                       b Notes:
