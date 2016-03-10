@@ -8,38 +8,48 @@
         "country": "Norge",
         "gmapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3029937.807390995!2d10.097970865633934!3d68.23446117471018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x45de8070391385cd%3A0xd51d537278043f57!2sSvin%C3%B8ya+Rorbuer!5e0!3m2!1sen!2sno!4v1457612128845"
     },
-    "schedules": [{
+    "schedules": [
+      {
         "day": "Lørdag 9. april",
-        "collections": [{
-            "time": "09:00-09:30 Keynote",
+        "collections": [
+          {
+              "time": "09:00-09:30 Keynote",
+              "entries": [
+                {
+                    "room": "Galleri",
+                    "slots": ["the_next_big_thing"]
+                }
+              ]
+          },
+          {
+              "time": "09:30-10:00 Prosjektpresentasjoner",
+              "entries": [
+                {
+                    "room": "Galleri",
+                    "slots": ["ruterbillett"]
+                }
+              ]
+          },
+          {
+              "time": "10:00-10:15 Pause",
+              "isBreak": true
+          },
+          {
+            "time": "10:15-11:00 Lyntaler",
             "entries": [
             {
                 "room": "Galleri",
-                "slots": ["the_next_big_thing"]
-            }
-            ]
-        }, {
-            "time": "09:30-10:00 Prosjektpresentasjoner",
-            "entries": [{
-                "room": "Galleri",
-                "slots": ["ruterbillett"]
-            }]
-        }, {
-            "time": "10:00-10:15 Pause",
-            "isBreak": true
-        }, {
-            "time": "10:15-11:00 Lyntaler",
-            "entries": [{
-                "room": "Galleri",
                 "slots": ["maskinlaering"]
-            }, {
+            },
+            {
                 "room": "Tørrfisk",
                 "slots": ["kubernetes"]
               }
             ]
-        }]
-
-    }],
+          }
+        ]
+      }
+    ],
     "talks": {
         "the_next_big_thing": {
             "talkId": "the_next_big_thing",
