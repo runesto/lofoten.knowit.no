@@ -1,7 +1,7 @@
 {
-  "name": "kds-ghpages",
+  "name": "lofoten-ghpages",
   "version": "1.0.0",
-  "description": "Knowit Developer Summit",
+  "description": "Fagseminar Lofoten 2016",
   "scripts": {
     "build": "jade --out . --obj src/viewmodel.json --pretty src/index.jade",
     "build:prog": "jade --out . --obj src/viewmodel.json --pretty src/prog.jade",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/knowit/kds.git"
+    "url": "git+https://github.com/knowit/lofoten.knowit.no.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/knowit/kds/issues"
+    "url": "https://github.com/knowit/lofoten.knowit.no/issues"
   },
-  "homepage": "http://kds.knowit.no/",
+  "homepage": "http://lofoten.knowit.no/",
   "devDependencies": {
     "jade": "^1.11.0"
   }
