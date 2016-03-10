@@ -26,7 +26,7 @@
               "entries": [
                 {
                     "room": "Galleri",
-                    "slots": ["ruterbillett"]
+                    "slots": ["ruterbillett", "NSB LISA", "..."]
                 }
               ]
           },
@@ -39,13 +39,17 @@
             "entries": [
             {
                 "room": "Galleri",
-                "slots": ["maskinlaering"]
+                "slots": ["machine_learing_oleg", "machine_learing_johan", "elk", "kubernetes"]
             },
             {
                 "room": "Tørrfisk",
-                "slots": ["kubernetes"]
+                "slots": ["tekst_tv", "innovasjon", "dsb"]
             }
             ]
+          },
+          {
+              "time": "11:00-11:15 Pause",
+              "isBreak": true
           },
           {
             "time": "11:15-13:00 Workshops",
@@ -63,6 +67,10 @@
                 "slots": ["playing_lean"]
             }
             ]
+          },
+          {
+              "time": "13:00-14:00 Lunsj før fisketur",
+              "isBreak": true
           }
         ]
       }
