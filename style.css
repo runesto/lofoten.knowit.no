@@ -374,6 +374,10 @@ td, th{
     width: 49%;
     margin-right: 2%;
   }
+  .with-1-entries .schedule-entry {
+    width: 100%;
+    margin-right: 0;
+  }
 
   .schedule-entry:last-child {
     margin-right: 0;
