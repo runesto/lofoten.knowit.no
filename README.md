@@ -1,4 +1,4 @@
-# Knowit Developer Summit
+# Knowit fagseminar Lofoten våren 2016
 
 ## Getting started
 
