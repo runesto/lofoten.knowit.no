@@ -73,6 +73,97 @@
               "isBreak": true
           }
         ]
+      },
+      {
+        "day": "Søndag 10. april",
+        "collections": [
+          {
+              "time": "09:30-09:40 God morgen!",
+              "entries": [
+                {
+                    "room": "Galleri",
+                    "slots": ["fagstatus_objectnet"]
+                }
+              ]
+          },
+          {
+              "time": "09:40-10:30 Prosjektpresentasjoner",
+              "entries": [
+                {
+                    "room": "Galleri",
+                    "slots": ["DIBK", "ByggForAlle", "RuterReise", "MT", "..."]
+                }
+              ]
+          },
+          {
+              "time": "10:30-10:45 Pause",
+              "isBreak": true
+          },
+          {
+            "time": "10:45-11:30 Lyntaler",
+            "entries": [
+              {
+                  "room": "Galleri",
+                  "slots": ["coreos", "nginx_lua", "mesos_marathon", "microservices_jee"]
+              },
+              {
+                  "room": "Tørrfisk",
+                  "slots": ["hva_er_kreativitet", "rekruttering", "ibeacons"]
+              }
+            ]
+          },
+          {
+              "time": "11:30-11:45 Pause",
+              "isBreak": true
+          },
+          {
+            "time": "11:45-12:00 Lyntaler",
+            "entries": [
+              {
+                  "room": "Galleri",
+                  "slots": ["idporten_ruby","javascript", "python", "scala"]
+              },
+              {
+                  "room": "Tørrfisk",
+                  "slots": ["terraform_aws_ndla", "swagger"]
+              }
+            ]
+          },
+          {
+              "time": "12:30-13:30 Lunsj",
+              "isBreak": true
+          },
+          {
+            "time": "13:30-14:15 Lyntaler",
+            "entries": [
+              {
+                  "room": "Galleri",
+                  "slots": ["blockchain", "bitcoin"]
+              },
+              {
+                  "room": "Tørrfisk",
+                  "slots": ["reactive", "bli_forfatter","droner"]
+              }
+            ]
+          },
+          {
+              "time": "14:15-14:30 Pause",
+              "isBreak": true
+          },
+          {
+            "time": "14:30-15:30 Combobreaker!",
+            "entries": [
+              {
+                  "room": "Galleri",
+                  "slots": ["smart_city"]
+              },
+              {
+                  "room": "Tørrfisk",
+                  "slots": ["????"]
+              }
+            ]
+          }
+        ]
       }
     ],
     "talks": {
