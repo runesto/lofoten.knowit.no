@@ -359,15 +359,19 @@ td, th{
   }
 
   .schedule-entry {
-    width: 31.3333333%;
     float: left;
-    margin-right: 2%;
   }
   .with-4-entries .schedule-entry {
-    width: 23%;
+    width: 24%;
+    margin-right: 1.333334%;
+  }
+
+  .with-2-entries .schedule-entry {
+    width: 49%;
+    margin-right: 2%;
   }
 
   .schedule-entry:last-child {
-    margin-left: 0;
+    margin-right: 0;
   }
 }
