@@ -12,14 +12,14 @@ section#schedule.schedule(class={progComView: progComView})
         each collection in schedule.collections
           if collection.entries
             .schedule-collection(class="with-#{collection.entries.length}-entries")
-              h4= collection.time
+              h4= collection.timeed
               each entry in collection.entries
                 .schedule-entry
                   h5 Rom: #{entry.room}
                   each slot in entry.slots
                     - var talk = talks[slot]
                     if talk
-                      .schedule-slot(class={pending: talk.pending, rejected: talk.rejected})
+                      .schedule-slot(data-talk-id=slot)
                         if talk.pending && !progComView
                           p tba
                         else
