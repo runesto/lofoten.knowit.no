@@ -1,12 +1,12 @@
 {
-  "title": "Knowit Developer Summit",
+  "title": "Knowit Objectnet Fagseminar høsten 2016",
   "event": {
-    "date": "November 13.-14. 2015",
-    "longDate": "13th-14th of November 2015",
-    "venue": "Radisson Blu Waterfront",
-    "city": "Stockholm",
-    "country": "Sweden",
-    "gmapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2035.1851871275999!2d18.056061999999997!3d59.329861999999885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d604f482201%3A0x858ff8c54ed4011b!2sRadisson+Blu+Waterfront+Hotel!5e0!3m2!1sno!2sno!4v1396439444495"
+    "date": "7.-10. april 2016",
+    "longDate": "7. - 10. april 2016",
+    "venue": "Svinøya Rorbuer",
+    "city": "Lofoten",
+    "country": "Norge",
+    "gmapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3029937.807390995!2d10.097970865633934!3d68.23446117471018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x45de8070391385cd%3A0xd51d537278043f57!2sSvin%C3%B8ya+Rorbuer!5e0!3m2!1sen!2sno!4v1457612128845"
   },
   "cfp": {
     "submissionDeadline": "August 20th, 2015",
