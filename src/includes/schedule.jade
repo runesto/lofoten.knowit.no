@@ -12,7 +12,7 @@ section#schedule.schedule(class={progComView: progComView})
         each collection in schedule.collections
           if collection.entries
             .schedule-collection(class="with-#{collection.entries.length}-entries")
-              h4= collection.timeed
+              h4= collection.time
               each entry in collection.entries
                 .schedule-entry
                   h5 Rom: #{entry.room}
