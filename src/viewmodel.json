@@ -173,14 +173,14 @@
             "speakers": [
               {
                 "name": "Christian Egeberg",
-                "bio": "Bacon ipsum dolor amet pork loin shank turkey, ham cow landjaeger flank ribeye. Meatloaf pancetta andouille cupim capicola shoulder kevin filet mignon shankle prosciutto turkey, hamburger sausage tongue. Spare ribs picanha short ribs tenderloin, sirloin shank pork flank. Filet mignon sausage ham hock porchetta biltong frankfurter. Pork chop tail shankle brisket, t-bone ham hock capicola porchetta pancetta cupim strip steak cow kielbasa ribeye pig.",
-                "pic": "",
-                "email": "ce@knowit.no"
+                "bio": "Christian er en .Net utvikler med fokus på skyarkitektur og mobil. Han har dyp interesse for alle slags dingser og teknologi, liker å gjøre ting grundig, og tenker ofte utenfor bokser. Christian kan til tider sette umåtelig pris på bevisst å befinne seg på feil jorde.",
+                "pic": "ceg.jpg",
+                "email": "ceg@knowit.no"
               }
             ],
-            "title": "The next big thing - Hvordan programmerer vi om 10 år?",
+            "title": "The next big thing",
             "type": "Keynote (30 min)",
-            "description": "asdasd asda sdasd asd asd"
+            "description": "Hvordan programmerer vi om 10 år?"
         },
         "ruterbillett": {
             "talkId": "ruterbillett",
