@@ -206,6 +206,12 @@
                 "bio": "Ole er en faglig engasjert utvikler som også interesserer seg for utviklingsprosesser og organisasjonskultur med fokus på verdiskapning. Aktiv medlem av JavaBin og JavaZone sin programkomité.",
                 "pic": "ob.jpg",
                 "email": "olebak@knowit.no"
+              },
+              {
+                "name": "John Doe",
+                "bio": "DLSKJA LKDJASD",
+                "pic": "",
+                "email": ""
               }
             ],
             "title": "Kubernetes",
