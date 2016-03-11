@@ -422,16 +422,17 @@ td, th{
   }
 
   .speaker .bio-pic {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
     float: left;
-    background-color: #efefef;
   }
 
   .speaker .bio {
     margin-left: 170px;
   }
+}
 
-
+.speaker .bio-pic {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  background-color: #efefef;
 }
