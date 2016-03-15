@@ -10,14 +10,37 @@
     },
     "schedules": [
       {
+        "day": "Torsdag 7. april",
+        "collections": [
+          {
+              "time": "16:00-17:00 Abstractsmie",
+              "entries": [
+                {
+                    "room": "Hotellbaren/Rorbu",
+                    "slots": ["abstractsmie"]
+                }
+              ]
+          }
+          ]
+        }, 
+        {
         "day": "Lørdag 9. april",
         "collections": [
           {
-              "time": "09:00-09:30 Keynote",
+              "time": "09:00-09:25 Keynote",
               "entries": [
                 {
                     "room": "Galleri",
                     "slots": ["the_next_big_thing"]
+                }
+              ]
+          },
+          {
+              "time": "09:25-09:30 Hvorfor og hvordan submitte talks til eksterne konferanser",
+              "entries": [
+                {
+                    "room": "Galleri",
+                    "slots": ["hvordan_submitte_talks"]
                 }
               ]
           },
@@ -156,10 +179,6 @@
               {
                   "room": "Galleri",
                   "slots": ["smart_city"]
-              },
-              {
-                  "room": "Tørrfisk",
-                  "slots": ["????"]
               }
             ]
           }
@@ -167,6 +186,13 @@
       }
     ],
     "talks": {
+        "abstractsmie": {
+            "talkId": "abstractsmie",
+            "pending": false,
+            "title": "Abstractsmie",
+            "type": "Workshop (60 min)",
+            "description": "De som har lyst samles i hotellbaren til en uformell workshop/diskusjon rundt mulige foredrag på JavaZone og andre konferanser fremover. Opplegget er frivillig."
+            },
         "the_next_big_thing": {
             "talkId": "the_next_big_thing",
             "pending": false,
@@ -182,21 +208,6 @@
             "type": "Keynote (30 min)",
             "description": "Hvordan programmerer vi om 10 år?"
         },
-        "ruterbillett": {
-            "talkId": "ruterbillett",
-            "pending": false,
-            "speakers": [
-              {
-                "name": "???",
-                "bio": "???",
-                "pic": "",
-                "email": "?"
-              }
-            ],
-            "title": "Ruter Billett",
-            "type": "Lyntale (5 min)",
-            "description": "asdasd asda sdasd asd asd"
-        },
         "minidroner": {
             "talkId": "minidroner",
             "pending": false,
@@ -208,9 +219,24 @@
                 "email": "abr@knowit.no"
               }
             ],
-            "title": "Ruter Billett",
+            "title": "Programmering av minidroner med JavaScript",
             "type": "Lyntale (5 min)",
             "description": "Liker du flygende roboter? Liker du JavaScript? Selvsagt gjør du det! Cylon.js er et JavaScript-rammeverk for koding av roboter og annen hardware, og er en morsom og enkel ingangsport til IoT-utvikling. Cylon.js er basert på node.js og har utvidelser for å å styre et stort antall hardwaredingser, fra Arduino-brett til kommersielt tilgjengelige droner. Rammeverket abstraherer bort mange av de irriterende elementene ved hardware-programmering, og gjør deg i stand til å fokusere på det som er morsomt: å se koden din ta steget fra den digitale til den fysiske verden. Dette foredraget vil vise deg hvordan du med ekstremt lite kode kan styre en sverm av billige og lett tilgjengelige minidroner, mens du lærer både robotikk og JavaScript. Det blir live droneshow!"
+        },        
+        "hvordan_submitte_talks": {
+            "talkId": "hvordan_submitte_talks",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Anders Breivik",
+                "bio": "Anders er en frafallen matematiker som har jobbet i Knowit i 10 år. Han har jobbet med både store virksomhetskritiske systemer og mindre mobile løsninger. Nå om dagen er han spesielt interessert i IoT, beacons og open source robotics. Han er er hverken profesjonell pilot eller Knowits mest erfarne JavaScript-utvikler, så når han får dronene til å fly med svært lite kode får du det også!",
+                "pic": "abr.jpg",
+                "email": "abr@knowit.no"
+              }
+            ],
+            "title": "Hvorfor og hvordan submitte talks til eksterne konferanser",
+            "type": "Lyntale (5 min)",
+            "description": ""
         },
         "kubernetes": {
             "talkId": "kubernetes",
@@ -221,17 +247,11 @@
                 "bio": "Ole er en faglig engasjert utvikler som også interesserer seg for utviklingsprosesser og organisasjonskultur med fokus på verdiskapning. Aktiv medlem av JavaBin og JavaZone sin programkomité.",
                 "pic": "ob.jpg",
                 "email": "olebak@knowit.no"
-              },
-              {
-                "name": "John Doe",
-                "bio": "DLSKJA LKDJASD",
-                "pic": "",
-                "email": ""
               }
             ],
             "title": "Kubernetes",
             "type": "Lyntale (10 min)",
-            "description": "asdasd asda sdasd asd asd"
+            "description": ""
         }
     }
 }

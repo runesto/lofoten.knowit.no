@@ -15,17 +15,18 @@ section#talks.talks
                   p.talk-meta
                     | #{talk.type}, #{" "}
                     a(href='#p_'+slot)  #{schedule.day.split(',').shift()} #{collection.time.split(' ').shift()} rom: #{entry.room}
-                  h5 Bio
-                  .speakers
-                    each speaker in talk.speakers
-                      .speaker
-                          if speaker.pic
-                            img(class="bio-pic", src='pics/'+speaker.pic)
-                          else
-                            .bio-pic
-                          .bio
-                            a(href='mailto:'+speaker.email)= speaker.name
-                            .bio-text= speaker.bio
+                  if talk.speakers
+                    h5 Bio
+                    .speakers
+                      each speaker in talk.speakers
+                        .speaker
+                            if speaker.pic
+                              img(class="bio-pic", src='pics/'+speaker.pic)
+                            else
+                              .bio-pic
+                            .bio
+                              a(href='mailto:'+speaker.email)= speaker.name
+                              .bio-text= speaker.bio
 
                   if progComView
                     p.talk-notes
