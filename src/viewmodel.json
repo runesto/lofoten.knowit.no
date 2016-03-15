@@ -197,6 +197,466 @@
             "type": "Workshop (60 min)",
             "description": "De som har lyst samles i hotellbaren til en uformell workshop/diskusjon rundt mulige foredrag på JavaZone og andre konferanser fremover. Opplegget er frivillig."
             },
+        "lisa": {
+            "talkId": "lisa",
+            "pending": false,
+            "title": "NSB Lisa",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "kf": {
+            "talkId": "kf",
+            "pending": false,
+            "title": "Kommuneforlaget",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "ruterbillett": {
+            "talkId": "ruterbillett",
+            "pending": false,
+            "title": "Ruter Billett",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "ndla": {
+            "talkId": "ndla",
+            "pending": false,
+            "title": "Norsk Digital Læringsarena",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "itas": {
+            "talkId": "itas",
+            "pending": false,
+            "title": "Oslo kommune - ITAS",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "pet": {
+            "talkId": "pet",
+            "pending": false,
+            "title": "Oslo kommune - PET",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "dibk": {
+            "talkId": "dibk",
+            "pending": false,
+            "title": "Direktoratet for byggkvalitet",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "byggforalle": {
+            "talkId": "byggforalle",
+            "pending": false,
+            "title": "Bygg for alle",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "ruterreise": {
+            "talkId": "ruterreise",
+            "pending": false,
+            "title": "Ruter Reise",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "vegloggen": {
+            "talkId": "vegloggen",
+            "pending": false,
+            "title": "Statens vegvesen - Vegloggen",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "mt": {
+            "talkId": "mt",
+            "pending": false,
+            "title": "NSB MT",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "toll": {
+            "talkId": "toll",
+            "pending": false,
+            "title": "Tolldirektoratet",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "spk": {
+            "talkId": "spk",
+            "pending": false,
+            "title": "Statens pensjonskasse",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "politiet": {
+            "talkId": "politiet",
+            "pending": false,
+            "title": "Politiets IKT-tjenester",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "nrk": {
+            "talkId": "nrk",
+            "pending": false,
+            "title": "NRK",
+            "type": "Lyntale (5 min)",
+            "description": ""
+            },
+        "machine_learing_oleg": {
+            "talkId": "machine_learing_oleg",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Ole Grashei",
+                "bio": "",
+                "pic": "",
+                "email": "olegra@knowit.no"
+              }
+            ],
+            "title": "Maskinlæring I",
+            "type": "Lyntale (10 min)",
+            "description": ""
+            },
+        "machine_learing_johan": {
+            "talkId": "machine_learing_johan",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Johan Reitan",
+                "bio": "",
+                "pic": "",
+                "email": "johan.reitan@knowit.no"
+              }
+            ],
+            "title": "Maskinlæring II",
+            "type": "Lyntale (10 min)",
+            "description": ""
+            },
+        "elk": {
+            "talkId": "elk",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Simen Skoglund",
+                "bio": "",
+                "pic": "",
+                "email": "simen.skoglund@knowit.no"
+              }
+            ],
+            "title": "ElasticSearch, Logstash, Kibana",
+            "type": "Lyntale (10 min)",
+            "description": ""
+            },
+        "innovasjon": {
+            "talkId": "innovasjon",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Arne Løvold",
+                "bio": "",
+                "pic": "",
+                "email": "arne.lovold@knowit.no"
+              }
+            ],          
+            "title": "Innovasjon",
+            "type": "Lyntale (20 min)",
+            "description": ""
+            },
+        "dsb": {
+            "talkId": "dsb",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Gunnar Velle",
+                "bio": "",
+                "pic": "",
+                "email": "gv@knowit.no"
+              },
+              {
+                "name": "Steinar Brunvoll Hanssen",
+                "bio": "",
+                "pic": "",
+                "email": "sbh@knowit.no"
+              }
+            ],          
+            "title": "DSB",
+            "type": "Lyntale (20 min)",
+            "description": ""
+            },
+        "security_hero_challenge": {
+            "talkId": "security_hero_challenge",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Linn Vikre",
+                "bio": "",
+                "pic": "",
+                "email": "linn.vikre@knowit.no"
+              }
+            ],          
+            "title": "Sikkerhet",
+            "type": "Diverse",
+            "description": ""
+            },
+        "code_challenge": {
+            "talkId": "code_challenge",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "",
+                "bio": "",
+                "pic": "",
+                "email": "arne.lovold@knowit.no"
+              }
+            ],          
+            "title": "Code challenge",
+            "type": "Workshop",
+            "description": ""
+            },
+        "playing_lean": {
+            "talkId": "playing_lean",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Arne Løvold",
+                "bio": "",
+                "pic": "",
+                "email": "arne.lovold@knowit.no"
+              },
+              {
+                "name": "Michael Johansen",
+                "bio": "",
+                "pic": "",
+                "email": "michael.johansen@knowit.no"
+              }
+            ],          
+            "title": "Playing Lean",
+            "type": "Workshop (95 min)",
+            "description": ""
+            },
+        "coreos": {
+            "talkId": "coreos",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Frode Ånonsen",
+                "bio": "",
+                "pic": "",
+                "email": "froano@knowit.no"
+              }
+            ],          
+            "title": "CoreOs",
+            "type": "Lyntale (10 min)",
+            "description": ""
+            },
+        "nginx_lua": {
+            "talkId": "nginx_lua",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Thomas Tøkje",
+                "bio": "",
+                "pic": "",
+                "email": "thomas.tokje@knowit.no"
+              }
+            ],          
+            "title": "Nginx+lua",
+            "type": "Lyntale (10 min)",
+            "description": ""
+            },
+        "mesos_marathon": {
+            "talkId": "mesos_marathon",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Joachim Seilfaldet",
+                "bio": "",
+                "pic": "",
+                "email": "jos@knowit.no"
+              }
+            ],          
+            "title": "MESOS Marathon",
+            "type": "Lyntale (10 min)",
+            "description": ""
+            },
+        "microservices_jee": {
+            "talkId": "microservices_jee",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Hågen Pihlstrøm Hasle",
+                "bio": "",
+                "pic": "",
+                "email": "hph@knowit.no"
+              }
+            ],          
+            "title": "Microservices og JEE appservere- inkompatible størrelser",
+            "type": "Lyntale (15 min)",
+            "description": ""
+            },
+        "hva_er_kreativitet": {
+            "talkId": "hva_er_kreativitet",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Trygve Fridstrøm",
+                "bio": "",
+                "pic": "",
+                "email": "tfr@knowit.no"
+              }
+            ],          
+            "title": "Hva er kreativitet",
+            "type": "Lyntale (20 min)",
+            "description": ""
+            },
+        "rekruttering": {
+            "talkId": "rekruttering",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Lars Ivar Næss",
+                "bio": "",
+                "pic": "",
+                "email": "lin@knowit.no"
+              }
+            ],          
+            "title": "Rekruttering",
+            "type": "Lyntale (10 min)",
+            "description": ""
+            },
+        "ibeacons": {
+            "talkId": "ibeacons",
+            "pending": false,
+            "title": "iBeacons",
+            "type": "Lyntale (10 min)",
+            "description": ""
+            },
+        "idporten_ruby": {
+            "talkId": "idporten_ruby",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Anders Aarsæther",
+                "bio": "",
+                "pic": "",
+                "email": "aaa@knowit.no"
+              },
+              {
+                "name": "Rune Melhus",
+                "bio": "",
+                "pic": "",
+                "email": "rme@knowit.no"
+              }
+            ],          
+            "title": "IDporten + Ruby",
+            "type": "Lyntale (10 min)",
+            "description": ""
+            },
+        "javascript": {
+            "talkId": "javascript",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Michael Johansen",
+                "bio": "",
+                "pic": "",
+                "email": "michael.johansen@knowit.no"
+              }
+            ],          
+            "title": "Javascript",
+            "type": "Lyntale (10 min)",
+            "description": ""
+            },
+        "python": {
+            "talkId": "python",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Kristoffer Strekerud",
+                "bio": "",
+                "pic": "",
+                "email": "kristr@knowit.no"
+              }
+            ],          
+            "title": "Python",
+            "type": "Lyntale (10 min)",
+            "description": ""
+            },
+        "scala": {
+            "talkId": "scala",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Imre Kerr",
+                "bio": "",
+                "pic": "",
+                "email": "imre.kerr@knowit.no"
+              }
+            ],          
+            "title": "Imre Kerr",
+            "type": "Lyntale (10 min)",
+            "description": ""
+            },
+        "blockchain": {
+            "talkId": "blockchain",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Sigurd Lund",
+                "bio": "",
+                "pic": "",
+                "email": "sigurd.lund@knowit.no"
+              }
+            ],          
+            "title": "Blockchain",
+            "type": "Lyntale (20 min)",
+            "description": ""
+            },
+        "bitcoin": {
+            "talkId": "bitcoin",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Mikal Villa",
+                "bio": "",
+                "pic": "",
+                "email": "mikal.villa@knowit.no"
+              }
+            ],          
+            "title": "Bitcoin",
+            "type": "Lyntale (30 min)",
+            "description": ""
+            },
+        "bli_forfatter": {
+            "talkId": "bli_forfatter",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Jens Holm",
+                "bio": "",
+                "pic": "",
+                "email": "jhh@knowit.no"
+              }
+            ],          
+            "title": "Bli forfatter",
+            "type": "Lyntale (10 min)",
+            "description": ""
+            },
+        "swagger": {
+            "talkId": "swagger",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Kenneth Stigen",
+                "bio": "",
+                "pic": "",
+                "email": "kes@knowit.no"
+              }
+            ],          
+            "title": "Swagger",
+            "type": "Lyntale (20 min)",
+            "description": ""
+            },
         "the_next_big_thing": {
             "talkId": "the_next_big_thing",
             "pending": false,
@@ -257,6 +717,36 @@
             "type": "Lyntale (5 min)",
             "description": "Liker du flygende roboter? Liker du JavaScript? Selvsagt gjør du det! Cylon.js er et JavaScript-rammeverk for koding av roboter og annen hardware, og er en morsom og enkel ingangsport til IoT-utvikling. Cylon.js er basert på node.js og har utvidelser for å å styre et stort antall hardwaredingser, fra Arduino-brett til kommersielt tilgjengelige droner. Rammeverket abstraherer bort mange av de irriterende elementene ved hardware-programmering, og gjør deg i stand til å fokusere på det som er morsomt: å se koden din ta steget fra den digitale til den fysiske verden. Dette foredraget vil vise deg hvordan du med ekstremt lite kode kan styre en sverm av billige og lett tilgjengelige minidroner, mens du lærer både robotikk og JavaScript. Det blir live droneshow!"
         },        
+        "smart_city": {
+            "talkId": "smart_city",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Cathrine Riise Dannevig",
+                "bio": "",
+                "pic": "",
+                "email": "crd@knowit.no"
+              }
+            ],          
+            "title": "Smart City",
+            "type": "Workshop (60 min)",
+            "description": ""
+            },
+        "knowit_veien_videre": {
+            "talkId": "knowit_veien_videre",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Erik Amundrud",
+                "bio": "",
+                "pic": "",
+                "email": "ea@knowit.no"
+              }
+            ],          
+            "title": "Knowit Objectnet - veien videre",
+            "type": "Foredrag/workshop (60 min)",
+            "description": ""
+            },
         "hvordan_submitte_talks": {
             "talkId": "hvordan_submitte_talks",
             "pending": false,
