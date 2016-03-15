@@ -51,6 +51,9 @@ a {
 
 .lead {
   font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  font-size: 25px;
+
 }
 
 /* Layout */
@@ -150,6 +153,12 @@ h3.schedule-all-tracks {
 }
 h3.schedule-all-tracks.session {
   background: #85d6cb;
+}
+h4 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  font-size: 25px;
+
 }
 h4.schedule-all-tracks {
   padding: 0;
