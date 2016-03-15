@@ -13,13 +13,8 @@
         "day": "Torsdag 7. april",
         "collections": [
           {
-              "time": "16:00-17:00 Abstractsmie",
-              "entries": [
-                {
-                    "room": "Hotellbaren/Rorbu",
-                    "slots": ["abstractsmie"]
-                }
-              ]
+              "time": "16:00-17:00 Abstractsmie. De som har lyst samles i hotellbaren til en uformell workshop/diskusjon rundt mulige foredrag på JavaZone og andre konferanser fremover. Opplegget er frivillig.",
+              "isBreak": true
           }
           ]
         }, 
@@ -27,20 +22,11 @@
         "day": "Lørdag 9. april",
         "collections": [
           {
-              "time": "09:00-09:25 Keynote",
+              "time": "09:00-09:25 God morgen!",
               "entries": [
                 {
                     "room": "Galleri",
-                    "slots": ["the_next_big_thing"]
-                }
-              ]
-          },
-          {
-              "time": "09:25-09:30 Hvorfor og hvordan submitte talks til eksterne konferanser",
-              "entries": [
-                {
-                    "room": "Galleri",
-                    "slots": ["hvordan_submitte_talks"]
+                    "slots": ["the_next_big_thing", "hvordan_submitte_talks"]
                 }
               ]
           },
@@ -190,13 +176,6 @@
       }
     ],
     "talks": {
-        "abstractsmie": {
-            "talkId": "abstractsmie",
-            "pending": false,
-            "title": "Abstractsmie",
-            "type": "Workshop (60 min)",
-            "description": "De som har lyst samles i hotellbaren til en uformell workshop/diskusjon rundt mulige foredrag på JavaZone og andre konferanser fremover. Opplegget er frivillig."
-            },
         "lisa": {
             "talkId": "lisa",
             "pending": false,
