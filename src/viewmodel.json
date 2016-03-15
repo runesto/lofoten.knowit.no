@@ -197,6 +197,21 @@
             "type": "Lyntale (5 min)",
             "description": "asdasd asda sdasd asd asd"
         },
+        "minidroner": {
+            "talkId": "minidroner",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Anders Breivik",
+                "bio": "Anders er en frafallen matematiker som har jobbet i Knowit i 10 år. Han har jobbet med både store virksomhetskritiske systemer og mindre mobile løsninger. Nå om dagen er han spesielt interessert i IoT, beacons og open source robotics. Han er er hverken profesjonell pilot eller Knowits mest erfarne JavaScript-utvikler, så når han får dronene til å fly med svært lite kode får du det også!",
+                "pic": "abr.jpg",
+                "email": "abr@knowit.no"
+              }
+            ],
+            "title": "Ruter Billett",
+            "type": "Lyntale (5 min)",
+            "description": "Liker du flygende roboter? Liker du JavaScript? Selvsagt gjør du det! Cylon.js er et JavaScript-rammeverk for koding av roboter og annen hardware, og er en morsom og enkel ingangsport til IoT-utvikling. Cylon.js er basert på node.js og har utvidelser for å å styre et stort antall hardwaredingser, fra Arduino-brett til kommersielt tilgjengelige droner. Rammeverket abstraherer bort mange av de irriterende elementene ved hardware-programmering, og gjør deg i stand til å fokusere på det som er morsomt: å se koden din ta steget fra den digitale til den fysiske verden. Dette foredraget vil vise deg hvordan du med ekstremt lite kode kan styre en sverm av billige og lett tilgjengelige minidroner, mens du lærer både robotikk og JavaScript. Det blir live droneshow!"
+        },
         "kubernetes": {
             "talkId": "kubernetes",
             "pending": false,
