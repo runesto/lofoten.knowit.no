@@ -212,6 +212,36 @@
             "type": "Keynote (30 min)",
             "description": "Hvordan programmerer vi om 10 år?"
         },
+        "reactive": {
+            "talkId": "reactive",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Are Husby",
+                "bio": "Systemutvikler/programmerer med Scala, Java, backend og objektorientering som kjernekompetanse. Begynte i Knowit i april 2015. Har åtte års erfaring som utvikler i Skattedirektoratet, hvor jeg de fire siste årene jobbet med med Java-programmering i flere prosjekter. Erfaringen med en stor organisasjon med IT-systemer med lang levetid har gitt meg interesse for blant annet kodekvalitet, smidig utviklingsmetodikk, testing og funksjonell programmering. Noen utviklere kommer til programmeringsfaget med en matematisk tankegang, mens andre er pragmatiske hackere. Jeg sammenligner god programkode med tekst i naturlige språk, og mener at billig og trygg forvaltning av programkode henger sammen med graden av lesbarhet for mennesker.",
+                "pic": "are.jpg",
+                "email": "are.husby@knowit.no"
+              }
+            ],
+            "title": "Reactive",
+            "type": "Lyntale (10 min)",
+            "description": "\"Reactive\" er et buzzword som gjorde utslag på radaren min for noen år siden. I motsetning til mange andre buzzwords ser dette ut til å vokse og bli mer og mer aktuelt og etablert. Jeg får inntrykk av at mange \"heavy hitters\" i programvarebransjen påstår at reactive er en ting for framtidas systemer, og at framtida er her allerede nå. Ordet \"paradigmeskifte\" blir brukt. Firmaet back Scala, Akka og Play Framework har frontet \"The Reactive Manifesteo\", som er temmelig ullent, men framstår som noe de satser livene sine på. Det er på tide at jeg finner ut av 1) Hva er reaktive systemer og reaktiv programmering? 2) Hvorfor er det viktig? 3) Hva er koblingen til funksjonell programmering, cloud og Internet of Things? Jeg deler med dere det jeg har funnet ut hittil, og skal prøve å svare på \"hva i hampen er det egentlig?\" Fokus på begrepsavklaring og historiske trender. Minst mulig kode."
+        },        
+        "tekst_tv": {
+            "talkId": "tekst_tv",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Andreas Bade",
+                "bio": "Prosjektleder med lang teknisk erfaring. Andreas har gjennom 14 år i ulike konsulentoppdrag har opparbeidet seg en utstrakt erfaringsbase for gjennomføring av prosjekter. Han har lang teknisk erfaring i kombinasjon med prosjektledererfaring. Andreas trives godt i grenseflaten mellom forretning og fag, funksjonalitet og teknologi. Andreas er sertifisert Project Management Professional (PMP), Certified Scrum Master, Certified Product Owner, og ITIL Foundation v 3. Han er opptatt av musikk og motiveres av samfunnsnyttige og synlige oppgaver.",
+                "pic": "ab.jpg",
+                "email": "ab@knowit.no"
+              }
+            ],
+            "title": "Tekst-TV",
+            "type": "Lyntale (10 min)",
+            "description": "Tekst-TV er en 30 år gammel tjeneste som kommer til å dø innen noen år. Hva er det? Hvilke bruksområder har den? Hva kan vi lære av denne teknologien, dens historie og dens bruksområder?"
+        },
         "minidroner": {
             "talkId": "minidroner",
             "pending": false,
@@ -241,6 +271,43 @@
             "title": "Hvorfor og hvordan submitte talks til eksterne konferanser",
             "type": "Lyntale (5 min)",
             "description": ""
+        },
+            "fagstatus_objectnet": {
+            "talkId": "fagstatus_objectnet",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Jan Henrik Gundelsby",
+                "bio": "Jan Henrik er fagsjef i Knowit Objectnet. Han har 20 års erfaring med teknologi på JVMen. Har de siste årene syslet mye med applikasjonsdrift, mikrotjenester og DevOps sentralt i Oslo kommune. En ivrig lettvekts-fantast som forsøker å jobbe mot smidige arkitekturer og løsninger.",
+                "pic": "jhg.jpg",
+                "email": "jhg@knowit.no"
+              },
+                            {
+                "name": "Haakon Spilde",
+                "bio": "Haakon er fagsjef i Knowit Objectnet. Haakon er lidenskapelig opptatt av prosess og metode, med særlig fokus på Agile teknikker. Hvordan lære av sine feil, hvordan endre sine metoder og prosesser til det bedre og hvordan få et team til å fungere optimalt er tema som opptar Haakon.",
+                "pic": "hfs.jpg",
+                "email": "hfs@knowit.no"
+              }
+
+            ],
+            "title": "Fagstatus i Knowit Objectnet",
+            "type": "Lyntale (10 min)",
+            "description": ""
+        },
+        "terraform_aws_ndla": {
+            "talkId": "terraform_aws_ndla",
+            "pending": false,
+            "speakers": [
+              {
+                "name": "Rune Storløpa",
+                "bio": "Teknisk arkitekt / løsningsansvarlig, som aldri blir enig med seg selv om det er morsomst å fikle med kode og lage gode løsninger eller å diskutere med kunder for å få de til å velge gode løsninger. Gjør derfor helst begge deler dersom tiden strekker til.",
+                "pic": "rst.jpg",
+                "email": "rst@knowit.no"
+              }
+            ],
+            "title": "Terraform & AWS i NDLA …evt. hvordan vite hva som faktisk kjører i kjøremiljøet ditt? ",
+            "type": "Lyntale (10 min)",
+            "description": "I NDLA-prosjektet kjører vi miljøer i Amazon som vi konfigurerer i Terraform. Skal snakke litt om erfaringer med Amazon og ting vi ramlet i som det kan være nyttig å vite om. Og litt om erfaringer med Terraform og ting vi ramlet i der som det kan være nyttig å vite om."
         },
         "kubernetes": {
             "talkId": "kubernetes",
