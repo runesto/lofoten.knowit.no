@@ -61,7 +61,7 @@
               "isBreak": true
           },
           {
-            "time": "11:15-13:00 Workshops",
+            "time": "11:15-14:00 Workshops",
             "entries": [
               {
                   "room": "Galleri",
@@ -78,7 +78,7 @@
             ]
           },
           {
-              "time": "13:00-14:00 Lunsj før fisketur",
+              "time": "14:00-14:30 Pause inkl. lunsj før fisketur",
               "isBreak": true
           }
         ]
@@ -374,7 +374,7 @@
               }
             ],          
             "title": "Sikkerhet",
-            "type": "Diverse",
+            "type": "Lyntaler, Workshop (165 min)",
             "description": ""
             },
         "code_challenge": {
@@ -389,7 +389,7 @@
               }
             ],          
             "title": "Code challenge",
-            "type": "Workshop",
+            "type": "Workshop (165 min)",
             "description": ""
             },
         "playing_lean": {
@@ -410,7 +410,7 @@
               }
             ],          
             "title": "Playing Lean",
-            "type": "Workshop (95 min)",
+            "type": "Workshop (165 min)",
             "description": ""
             },
         "coreos": {
