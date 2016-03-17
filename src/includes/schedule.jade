@@ -34,5 +34,6 @@ section#schedule.schedule(class={progComView: progComView})
                       .schedule-slot= slot
           else if collection.isBreak
             h4.schedule-all-tracks= collection.time
+            .schedule-slot= collection.description
           else
             h3.schedule-all-tracks= collection.time
