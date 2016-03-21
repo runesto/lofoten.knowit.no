@@ -308,8 +308,8 @@
             "speakers": [
               {
                 "name": "Johan Reitan",
-                "bio": "",
-                "pic": "",
+                "bio": "Johan er en systemutvikler med master i Datateknikk ved NTNU der han spesialiserte seg i kunstig intelligens. Hovedinteressen har vært maskinlæring, gjerne sammen med språkteknologi, som han har jobbet mye med. Linux og åpen kildekode er en lidenskap, og mye av fritiden hans går med på eksperimentering med og bidrag til åpne prosjekter. Han har mye erfaring med Python og diverse Python-rammeverk, men har også jobbet med .NET, Java og Android.",
+                "pic": "Johan.Reitan.300x375.jpg",
                 "email": "johan.reitan@knowit.no"
               }
             ],
