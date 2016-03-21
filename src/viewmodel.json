@@ -328,9 +328,9 @@
                 "email": "simen.skoglund@knowit.no"
               }
             ],
-            "title": "ElasticSearch, Logstash, Kibana",
+            "title": "Få oversikt over loggene dine med Elasticsearch, Logstash og Kibana",
             "type": "Lyntale (10 min)",
-            "description": ""
+            "description": "Med Elasticsearch, Logstash og Kibana kan du parse, indeksere og visualisere loggene dine i sanntid. I denne lyntalen skal vi snakke om hva ELK-stacken er og hvordan den kan brukes til å forstå akkurat hva som skjer på din platform."
             },
         "innovasjon": {
             "talkId": "innovasjon",
@@ -543,7 +543,7 @@
             ],          
             "title": "IDporten + Ruby",
             "type": "Lyntale (10 min)",
-            "description": ""
+            "description": "Som alle vet er integrasjoner grinete, og få ting er enda mer grinete enn å gjøre det via SAML. Heldigvis har Rails flere biblioteker som kan gjøre opplevelsen langt mer behagelig. Vi demonstrerer konseptene og viser hvor lite kode som egentlig skal til for å få det hele opp og kjøre. Som en bonus får dere flere tips til hvordan dere unngår å dumme dere ut når det nærmer seg produksjonssetting."
             },
         "javascript": {
             "talkId": "javascript",
