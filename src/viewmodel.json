@@ -157,7 +157,7 @@
               },
               {
                   "room": "Tørrfisk",
-                  "slots": ["reactive", "bli_forfatter","droner"]
+                  "slots": ["reactive", "bli_forfatter","minidroner"]
               }
             ]
           },
