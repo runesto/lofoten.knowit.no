@@ -293,8 +293,8 @@
             "speakers": [
               {
                 "name": "Ole Grashei",
-                "bio": "",
-                "pic": "",
+                "bio": "Ole gikk ut fra NTNU i 2013 med en sivilingeniørgrad i datateknikk. Fra forvaltningsprosjekter har han fått innsikt i komplekse foretningsapplikasjoner og prosjektprosessen. Gjennom sine prosjekt-engasjementer i NSB har Ole vært involvert både i kjerne-billettsystem (Java-utvikling) og salgskanalen for konduktører (Android-utvikling for Mobile Terminaler / smarttelefon). Ole faglig interessert og er jevnlig å se på meetups om utvikling, arkitektur og maskinlæring.",
+                "pic": "olegra_knowit.no",
                 "email": "olegra@knowit.no"
               }
             ],
@@ -323,8 +323,8 @@
             "speakers": [
               {
                 "name": "Simen Skoglund",
-                "bio": "",
-                "pic": "",
+                "bio": "Simen Skoglund begynte som konsulent i Knowit Objectnet i August 2015. Simen har sin kompetanse innenfor språk på JVMen, hovedsakelig Java hvor han primært jobber med backendutvikling. Simen er også over middels interessert i tankegangen bak DevOps hvor utvikleren også driver med drifting. Interessen for DevOps kom når Simen oppdaget hvor mye tid en utvikler kan spare ved å ta på seg enkle driftsoppgaver selv, og at kodekvaliteten på det man leverer blir bedre. I tillegg er Simen en positiv, ansvarsfull og utadvent person som alltid er i godt humør. Han er heller ikke redd for å ta på seg nye og utfordrende oppgaver, og er alltid ute etter å utvikle og utvide sin egen kompetanse.",
+                "pic": "Simen-Skoglund.600x750.jpg",
                 "email": "simen.skoglund@knowit.no"
               }
             ],
@@ -353,14 +353,14 @@
             "speakers": [
               {
                 "name": "Gunnar Velle",
-                "bio": "",
-                "pic": "",
+                "bio": "Gunnar er ein allsidig konsulent som har vore involvert i fleire spennande og samfunnsnyttige prosjekt innafor offentleg forvaltning, men også innan industri, media og telekom. Gunnar er alltid oppdatert på kva som finnes av nye teknologiar, verktøy og rammeverk innen Java og fri programvare, og har stor glede av å utnytte dette i prosjekt der teknologien passar inn. Gunnar har jobba med brukergrensesnitt i nettbaserte løsninger i ei årrekke. Han er spesielt interessert i grensesnittet mellom teknologi og menneske, og er opptatt av brukeropplevelsen i prosjekta han er involvert i. En av Gunnars sterkeste sider er at han har en god forståelse av teknologi og klarer raskt å sette seg inn i nye problemstillinger. Gunnar har vore med i driftsgruppa i Knowie Objectnet siden 2004, med ansvar for maskinvare, infrastruktur og brukerhjelp for ansatte.",
+                "pic": "gv_knowit.no.jpg",
                 "email": "gv@knowit.no"
               },
               {
                 "name": "Steinar Brunvoll Hanssen",
-                "bio": "",
-                "pic": "",
+                "bio": "Steinar har nøkkelkompetanse innenfor test- og kvalitetssikring av samfunns- og virksomhetskritiske systemer. Han har fokus på effektivt å levere systemer med riktig kvalitet og løpende vurdere tiltak for å ta ned risiko. Steinar har bred erfaring med smidige metoder, tjenesteorientert arkitektur, analyse og design, objektorientert modellering og utvikling, applikasjonsintegrasjon, prosjekt- og testledelse, leveranseplanlegging og utrullingsstrategier, etablering av testmiljøer, vurdering og test av ytelse, oppfølging mot driftsleverandører, datamigrering, databasesystemer og datafangst for datavarehus og andre rapporteringsløsninger. Med sin bakgrunn kan Steinar løpende kvalitetssikre løsningsvalg og være en sparringpartner for prosjektledere, arkitekter og utviklere i et prosjektløp eller i applikasjonsforvaltning.",
+                "pic": "sbh_knowit.no.jpg",
                 "email": "sbh@knowit.no"
               }
             ],          
@@ -425,8 +425,8 @@
             "speakers": [
               {
                 "name": "Frode Ånonsen",
-                "bio": "",
-                "pic": "",
+                "bio": "Frode Ånonsen, født 1975, er en erfaren utvikler. Frode har bakgrunn fra IT-design og -ariktektur, samt applikasjonsutvikling. Han skriver kode i høy kvalitet basert på de anerkjente SOLID prinsippene, hvor han benytter hensiktsmessige designmønstre.  Frode er en erfaren full-stack utvikler og en entusiastisk og pålitelig konsulent, og er et positivt tilskudd til et team. Videre har han erfaring med smidige utviklingsmetodikker og test-drevet utvikling. Han har over 10 års erfaring med blant annet Javascript, Clojure, Java, C# og andre web teknologier. Han kjenner godt til åpne teknologier som Linux, Apache, Nginx, Mysql, Postgresql, Neo4j, Datomic, Docker osv.",
+                "pic": "frode.jpg",
                 "email": "froano@knowit.no"
               }
             ],          
@@ -441,7 +441,7 @@
               {
                 "name": "Thomas Tøkje",
                 "bio": "Utvikler med bakgrunn fra kybernetikk ved NTNU. Thomas er glad i å lære nye ting, og har gjennom sin utdanning og karriere lært seg å beherske et stort spenn av fagfelt, deriblant elektronikk, programmering og serverdrift.",
-                "pic": "",
+                "pic": "tøkje.jpg",
                 "email": "thomas.tokje@knowit.no"
               }
             ],          
@@ -455,8 +455,8 @@
             "speakers": [
               {
                 "name": "Joachim Seilfaldet",
-                "bio": "",
-                "pic": "",
+                "bio": "Joachim begynte å jobbe i Knowit i 2012, etter å ha fullført en master ved Universitetet i Oslo. Han har kjernekompetanse innen objektorientert systemutvikling og nettverk. I tillegg har han en stor interesse for større distribuerte systemer. Joachim er nøyaktig, fleksibel og en faglig interessert person.",
+                "pic": "jos_knowit.no.jpg",
                 "email": "jos@knowit.no"
               }
             ],          
@@ -470,8 +470,8 @@
             "speakers": [
               {
                 "name": "Hågen Pihlstrøm Hasle",
-                "bio": "",
-                "pic": "",
+                "bio": "Hågen er faglig svært dyktig, og er også en omgjengelig og trivelig person. Han blir alltid godt likt av de han arbeider sammen med, både på grunn av sin evne til å sette seg inn i og løse forskjellige typer faglige utfordringer, men også fordi han alltid stiller opp og er behjelpelig når andre står fast. Han har en god teknologiforståelse, er rask og samtidig systematisk.",
+                "pic": "hph.jpg",
                 "email": "hph@knowit.no"
               }
             ],          
@@ -485,8 +485,8 @@
             "speakers": [
               {
                 "name": "Trygve Fridstrøm",
-                "bio": "",
-                "pic": "",
+                "bio": "Trygve Fridstrøm er god på å sette seg inn i nye domeneområder og utvikle løsninger for disse. Han har bred kompetansbakgrunn fra it-utvikling. Han er en ansvarsfull og god utvikler som lett glir inn i et utviklingsteam. I utviklingsteam bidrar han til et godt arbeidsmiljø gjennom sin omgjengelige væremåte. Han er interessert i å holde seg oppdatert faglig og har lett for å sette seg inn i ny teknologi. Trygve har jobbet i Know IT Objectnet siden starten, og har sin kjerne-kompetanse innenfor objektorientert modellering/utvikling. Han har jobbet mye med både datamodellering og datakonvertering, og har inngående kjennskap til teknologier og verktøy som: Java/J2EE, Scala, JBossESB, BEA WebLogic Server, VB, PHP, HTML, Javascript, UML, Rational Rose, Enterprise Architect, eZPublish, ulike datakonverteringsteknikker.",
+                "pic": "tfr.jpg",
                 "email": "tfr@knowit.no"
               }
             ],          
@@ -500,8 +500,8 @@
             "speakers": [
               {
                 "name": "Lars Ivar Næss",
-                "bio": "",
-                "pic": "",
+                "bio": "Lars Ivar Næss har jobbet i Knowit Objectnet (inkl. datterselskap Unified Consulting) som avdelingsleder siden 2003, med ansvar for ca. 40 konsulenter. Stillingen omfatter personalansvar, budsjettansvar, prosjektansvar, kundeansvar, salg av konsulenter, vurdering av nye muligheter, sikring av oppdrag etc. Han er sertifisert innenfor prosjektledelse (PMP / PMI-ACP) og test (ISTQB), og har bakgrunn som utvikler med nøkkelkompetanse innenfor databasesystemer, datamodellering, objektorientert modellering / utvikling samt systemutviklingsprosesser.  Siden 2008 har han vært involvert i flere prosjekter for Oslo kommune som kundeansvarlig og rådgiver - bl.a. ITAS (Interaktive Tjenester) og PFF (Program for fellesfunksjonalitet).",
+                "pic": "lin.png",
                 "email": "lin@knowit.no"
               }
             ],          
@@ -530,14 +530,14 @@
             "speakers": [
               {
                 "name": "Anders Aarsæther",
-                "bio": "",
-                "pic": "",
+                "bio": "Anders er en entusiastisk utvikler med lang erfaring med webteknologier (inklusive 10 års erfaring med Ruby on Rails) og programmering generelt, og jobber gjerne like mye med frontend som backend. Han har spesiell interesse for nye teknologier og programmeringsspråk, og holder seg kontinuerlig faglig oppdatert. Utvidet kompetanse inkluderer bl.a funksjonell programmering, mobilteknologi, grafikkprogammering og Unix-drift.",
+                "pic": "aaa_knowit.no.jpg",
                 "email": "aaa@knowit.no"
               },
               {
                 "name": "Rune Melhus",
-                "bio": "",
-                "pic": "",
+                "bio": "Utvikler, arkitekt og sertifisert Scrum master med mer enn 14 års erfaring som konsulent. Mye erfaring med mellomvare, og det å få systemer til å prate sammen. En bieffekt av dette er at Rune har god kjennskap til tjenestebusser, køer, applikasjonstjenere og webtjenester. Runes brede erfaring gjør at han oftest jobber som arkitekt, teknisk ansvarlig og seniorutvikler. Rune vant Rosingprisen for brukervennlighet i 2001 som en del av teamet bak SuperOffice CRM 5.",
+                "pic": "Rune.Melhus.300x375.jpg",
                 "email": "rme@knowit.no"
               }
             ],          
@@ -566,8 +566,8 @@
             "speakers": [
               {
                 "name": "Kristoffer Strekerud",
-                "bio": "",
-                "pic": "",
+                "bio": "Kristoffer fullførte sin mastergrad i biomedisinsk informatikk i august 2014, med en bachelorgrad i programmering, nettverk og databaser som grunnlag. Utdanningen har Java som grunnspråk. Kristoffer har gode sosiale ferdigheter, og er svært lett å komme overens med. Kristoffer er alltid i godt humør og oppfattes som ambisiøs, lærevillig, samarbeidsvillig og ikke redd for å ta ledelsen om nødvendig. Kristoffer jobber godt både selvstendig og i grupper.",
+                "pic": "Kristoffer-Strekerud.jpg",
                 "email": "kristr@knowit.no"
               }
             ],          
@@ -581,8 +581,8 @@
             "speakers": [
               {
                 "name": "Imre Kerr",
-                "bio": "",
-                "pic": "",
+                "bio": "Imre er utdannet ved NTNU i Trondheim og var ferdig med en master i datateknologi høsten 2015. Derfra har han fått erfaring med et bredt utvalg teknologier, og han elsker å holde seg oppdatert ved å stadig prøve seg på nye ting.",
+                "pic": "imre.jpg",
                 "email": "imre.kerr@knowit.no"
               }
             ],          
@@ -597,7 +597,7 @@
               {
                 "name": "Sigurd Lund",
                 "bio": "Utdannet ved NTNU med mastergrad i informatikk våren 2015 der han spesialiserte seg innenfor intelligente systemer. Begynte som konsulent hos Knowit Objectnet samme år, der han gikk inn i LISA-prosjektet hos NSB. Sigurd har vært fascinert over Bitcoin og cryptocurrencies i mange år, og prøver å følge godt med på utviklingen som skjer innen dette.",
-                "pic": "",
+                "pic": "Sigurd-Lund.jpg",
                 "email": "sigurd.lund@knowit.no"
               }
             ],          
@@ -611,8 +611,8 @@
             "speakers": [
               {
                 "name": "Mikal Villa",
-                "bio": "",
-                "pic": "",
+                "bio": "Systemutvikler/System administrator med backend programmering og linux drift som kjernekompetanse. Mikal har hos sine tidligere arbeidsgivere jobbet en del med utvikling av moduler og små tjenester for web og eCommerce, samt drift av diverse servere som for eksempel web, mail og søk. I tillegg har han gjort mange småoppdrag som har gitt han erfaring med C#, C, Windows, og mye mer. Han har også erfaringer fra arkivsystemet til de største avisene i landet. Mikal har også driftet sine egne servere og nettverk siden 2010.",
+                "pic": "mikal.jpg",
                 "email": "mikal.villa@knowit.no"
               }
             ],          
@@ -626,8 +626,8 @@
             "speakers": [
               {
                 "name": "Jens Holm",
-                "bio": "",
-                "pic": "",
+                "bio": "Jens har vært ansatt i Know IT Objectnet siden 2006, og er en av våre mest erfarne konsulenter med lang erfaring i systemarbeid og systemutvikling innenfor administrasjon, økonomi, regnskap og bankvirksomhet, med nøkkelkompetanse innenfor programmeringsspråk, databasesystemer, ekspertsystemer og modellbasert systemutvikling. Har også erfaring i ledelse og administrasjon i IT organisasjoner.",
+                "pic": "Jens.Holm.300x375.jpg.png",
                 "email": "jhh@knowit.no"
               }
             ],          
@@ -641,8 +641,8 @@
             "speakers": [
               {
                 "name": "Kenneth Stigen",
-                "bio": "",
-                "pic": "",
+                "bio": "Kenneth har jobbet i som konsulent siden 2004, og i Knowit Objectnet siden januar 2010. Kenneth har sin kjernekompetanse innenfor arkitektur og utvikling av store løsninger på java-plattformen. Kenneth er en utadvent person og fungerer godt i team. Kenneth er også veldig interessert i teknologi og tilegner seg ny kunnskap raskt. Som gruppeleder har han personalansvar for syv konsulenter, samt medansvar for rekruttering, vurdering av muligheter, sikring av oppdrag etc. De siste årene har Kenneth jobbet på prosjekter som fokuserer på kontinuerlige leveranser og mikrotjenester.",
+                "pic": "kes_knowit.no.jpg",
                 "email": "kes@knowit.no"
               }
             ],          
@@ -716,8 +716,8 @@
             "speakers": [
               {
                 "name": "Cathrine Riise Dannevig",
-                "bio": "",
-                "pic": "",
+                "bio": "Cathrine er engasjert i mennesker og teamarbeid. Hun er opptatt av at fok skal trives, og av at hun får utnyttet potensialet i gruppen. Mange år med utviklererfaring kommer godt med i arbeidet som prosjektleder. Cathrine har jobbet med Devops i Oslo kommune siden 2012. Prosjektet har fokus på continius integration, continuous delivery, mikrotjenester og automatisering av feilhåntering. Ved å jobbe med utvikling og drift i parallell opplever hun at teamet tar økt ansvar og får en bratt læringskurve ift. å bygge driftsikre, robuste og skalerbare løsninger. Teamet oppnår raskt time to marked og rask feilretting ved feilsituasjoner. Som prosjektleder / koordinator for et team på 25 teammedlemmer på fem svært løst koblede team er Cathrine engasjert med planlegging, teamoppfølging, nye avrop, rådgivning, rapportering, statusmøter, beredskap og oppfølging av drift. En stor del av arbeidsdagen går også med på å koordinere og følge opp bestillinger og feilmeldinger fra Utviklings- og kompetanse-etaten og Oslo kommuens nærmere 50 virksomheter, samt koordinering med andre leverandører. Cathrine er opptatt av anvendelse av teknologi i daglig- og arbeidsliv og er opptatt av Smartcities og Internet Of Things såvel som utfordringer med teknologi ift. tilgjengelighet, personvern og sikkerhet.",
+                "pic": "Cathrine-Riise-Dannevig.jpg",
                 "email": "crd@knowit.no"
               }
             ],          
