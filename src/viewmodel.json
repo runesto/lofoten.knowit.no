@@ -373,30 +373,30 @@
             "pending": false,
             "speakers": [
               {
-                "name": "Linn Vikre",
+                "name": "Linn Vikre, Michael Johansen, Thuc Hoang, Erik Lund, Sigurd Lund, Christian Peter",
                 "bio": "",
                 "pic": "",
-                "email": "linn.vikre@knowit.no"
+                "email": ""
               }
             ],          
-            "title": "Sikkerhet",
+            "title": "Hackit - Sikkerhet for din personlige server i skyen",
             "type": "Lyntaler, Workshop (165 min)",
-            "description": ""
+            "description": "\"Jeg er IT-konsulent, men på sikkerhetsfronten er det nok en del basics jeg ikke kan så godt…\" Føles dette litt kjent? På vårt sikkerhetskurs går vi gjennom security basics og setter opp servere i skyen før vi viser deg hvordan du kan sikre den mot angripere. Og det beste av alt? På slutten av kurset vil du sitte igjen med en sikret, fiks ferdig personlig server i Amsterdam. Og den kan du gjøre hva du vil med."
             },
         "code_challenge": {
             "talkId": "code_challenge",
             "pending": false,
             "speakers": [
               {
-                "name": "",
+                "name": "Anita Andersen, Kennet Vuong, Simen Skoglund, Hege Størvold, Imre Kerr, Runar Furenes, Anders Thorbeck, Anders Dahlin",
                 "bio": "",
                 "pic": "",
-                "email": "arne.lovold@knowit.no"
+                "email": "ana@knowit.no"
               }
             ],          
             "title": "Code challenge",
             "type": "Workshop (165 min)",
-            "description": ""
+            "description": "Den nyoppstartede faggruppen \"Funksjonell programmering for folk flest\" arrangerer en workshop/konkurranse kalt \"Extreme Programming\". I konkurransen melder den enkelte deltakeren seg på en server, og løser fortløpende oppgaver som blir tilsendt deltakerne. Gjeldende stilling i konkurransen oppdateres kontinuerlig på en poengtavle, ikke så ulikt Programming ladder. Oppgavene i konkurransen kan løses i så godt som alle programmeringsspråk, men det oppfordres til å bruke et funksjonelt språk. Vi kommer til å tilby skjelettkode for et utvalg av programmeringsspråk før fagseminaret, slik at det blir mulig å laste ned det som trengs av biblioteker og liknende i forkant. Bli med enten du ønsker å konkurrere om 1. plass i et språk du er kjent med, eller du vil prøve deg på et nytt språk!"
             },
         "playing_lean": {
             "talkId": "playing_lean",
