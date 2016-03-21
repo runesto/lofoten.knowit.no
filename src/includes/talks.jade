@@ -11,7 +11,7 @@ section#talks.talks
               if talk && (!talk.pending || progComView)
                 .talks-entry(id=slot data-talk-id=slot)
                   h4(lang=talk.languageCode)= " " + talk.title
-                  p.talk-description(lang=talk.languageCode)= talk.description
+                  p.talk-description(lang=talk.languageCode)!= talk.description
                   p.talk-meta
                     | #{talk.type}, #{" "}
                     a(href='#p_'+slot)  #{schedule.day.split(',').shift()} #{collection.time.split(' ').shift()} rom: #{entry.room}
@@ -25,7 +25,7 @@ section#talks.talks
                                 a(href='mailto:'+speaker.email)= speaker.name
                                 .bio-text= speaker.bio
                             else
-                              = speaker.name
+                              a(href='mailto:'+speaker.email)= speaker.name
                               .bio-text= speaker.bio
 
                   if progComView

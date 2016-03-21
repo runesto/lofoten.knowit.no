@@ -174,7 +174,7 @@
               },
               {
                   "room": "Tørrfisk",
-                  "slots": ["knowit_veien_videre"]
+                  "slots": ["openspace"]
               }
             ]
           }
@@ -339,7 +339,7 @@
               {
                 "name": "Arne Løvold",
                 "bio": "IT-konsulentleder med kompetanse innen konsulentledelse, teknologi, forretningsutvikling, strategi, personalledelse, salg, kompetanseutvikling, kundeansvar og internasjonal ledelse. Jeg har erfaring som prosjektleder og prosjektansvarlig for integrasjon-, utvikling- og Business Intelligence prosjekter. Engasjert i Norges Baskeballforbund, Smidigkonferansen og deltar i et Masterprogram på UiO.",
-                "pic": "",
+                "pic": "Arne farge.jpg",
                 "email": "arne.lovold@knowit.no"
               }
             ],          
@@ -391,7 +391,7 @@
                 "name": "Anita Andersen, Kennet Vuong, Simen Skoglund, Hege Størvold, Imre Kerr, Runar Furenes, Anders Thorbeck, Anders Dahlin",
                 "bio": "",
                 "pic": "",
-                "email": "ana@knowit.no"
+                "email": ""
               }
             ],          
             "title": "Code challenge",
@@ -404,8 +404,8 @@
             "speakers": [
               {
                 "name": "Arne Løvold",
-                "bio": "",
-                "pic": "",
+                "bio": "IT-konsulentleder med kompetanse innen konsulentledelse, teknologi, forretningsutvikling, strategi, personalledelse, salg, kompetanseutvikling, kundeansvar og internasjonal ledelse. Jeg har erfaring som prosjektleder og prosjektansvarlig for integrasjon-, utvikling- og Business Intelligence prosjekter. Engasjert i Norges Baskeballforbund, Smidigkonferansen og deltar i et Masterprogram på UiO.",
+                "pic": "Arne farge.jpg",
                 "email": "arne.lovold@knowit.no"
               },
               {
@@ -516,7 +516,7 @@
               {
                 "name": "Henning Wold",
                 "bio": "Henning er en glad og engasjert systemutvikler som elsker teknologi og å bruke denne til å løse problemer på best mulig måte. Han trives med oppgaver som krever planlegging og gjennomtenking for å løses på en god måte. Han har variert erfaring, både fra backendsystemer utviklet med Java og Scala, til webapplikasjoner utviklet med Ruby on Rails, HTML5, CSS og JavaScript. I tillegg har han erfaring fra apputvikling til Apple iOS, da primært i det nye programmeringsspråket Swift. Han har bakgrunn fra NTNU der han fullførte sin mastergrad våren 2015.",
-                "pic": "",
+                "pic": "hw.jpg",
                 "email": "henning.wold@knowit.no"
               }
             ],          
@@ -552,7 +552,7 @@
               {
                 "name": "Michael Johansen",
                 "bio": "Michael er fersk i Knowit. Etter å ha studert informatikk, entreprenørskap og psykologi på NTNU brukte han en del tid på å kjøre i gang en startup med noen gode venner. Han har kunnskap om alt fra Chrome Extensions og ReactJS til HR- og strategiarbeid. Om du har en liten drøm om å bli starte noe stort, men ikke vet hvor du skal begynne, så tar han gjerne en kaffe med deg.",
-                "pic": "",
+                "pic": "Michael.png",
                 "email": "michael.johansen@knowit.no"
               }
             ],          
@@ -725,20 +725,12 @@
             "type": "Workshop (60 min)",
             "description": ""
             },
-        "knowit_veien_videre": {
-            "talkId": "knowit_veien_videre",
+        "openspace": {
+            "talkId": "openspace",
             "pending": false,
-            "speakers": [
-              {
-                "name": "Erik Amundrud",
-                "bio": "",
-                "pic": "",
-                "email": "ea@knowit.no"
-              }
-            ],          
-            "title": "Knowit Objectnet - veien videre",
-            "type": "Foredrag/workshop (60 min)",
-            "description": ""
+            "title": "Open Space",
+            "type": "Open space (60 min)",
+            "description": "Open Space er en prosess med enkle regler som sørger for at man finner de beste temaene og at diskusjonene blir meningsfylte. <br/> <br/> Deltakerne får mulighet til å foreslå spesifikke tema eller problemstillinger de ønsker å arbeide med. Hver deltaker går til gruppen med det temaet som fenger mest. Når sesjonene starter er «tema-eier» ansvarlig for å ønske velkommen og evt. utdype temaet for å komme i gang. Etter det kan eier lytte eller snakke så mye eller lite man ønsker. Det er ikke nødvending å forberede noe før en Open Space (men man kan om man vil). Deretter er det egentlig opp til gruppen selv hvordan de vil diskutere og arbeide med temaet. Ut over dette er det ikke mange regler, men det finnes én lov; loven om de to føtter. Du har to føtter, én fot med lidenskap og én fot med ansvar. Hvis du befinner deg et sted hvor du hverken føler at du lærer noe (lidenskap) eller bidrar (ansvar), så sier loven at du skal bruke dine to føtter og gå til en annen gruppe. <br/> <br/> Som deltager på Open Space er du altså selv ansvarlig for ditt eget utbytte. Det er derfor lurt å tenke litt på forhånd hva du vil diskutere! Gjør deg selv og dine medmennesker en tjeneste: Bruk ett minutt på å tenke på hva du kunne tenke deg å dele, lære og diskutere. Får du en ide til et tema du kan tenke deg å eie, eller har du spørsmål om Open Space, send gjerne en mail til fagsjef@knowit.no."
             },
         "hvordan_submitte_talks": {
             "talkId": "hvordan_submitte_talks",
